@@ -2,16 +2,16 @@
 
 AI-powered Web Developer.
 
-I build modern websites and digital experiences using AI-assisted development workflows.
+I build modern, responsive websites for businesses and creators using AI-assisted development workflows.
 
-## What I do
+## 🔗 What I do
 
 - Modern business websites
 - Landing pages
 - Responsive web design
 - Cloud deployment
 
-## Technologies
+## 🛠 Technologies
 
 - Next.js
 - React
@@ -19,10 +19,10 @@ I build modern websites and digital experiences using AI-assisted development wo
 - Tailwind CSS
 - Cloud Platforms
 
-## Current Focus
+## 🚀 Current Focus
 
-Building AI-powered solutions and helping businesses establish their online presence.
+Building AI-powered websites and helping small businesses create a stronger online presence.
 
-## Contact
+## 📫 Contact
 
 Email: mcokss@outlook.com
